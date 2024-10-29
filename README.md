@@ -25,15 +25,15 @@ pip install numpy pandas scikit-learn tensorflow shap
 
 
 
-Pneumonia X-ray Classification (Pneumonia_Augmented_Learning.ipynb)
-Objective: Classify X-ray images for pneumonia presence and improve model interpretability through GradCAM heatmaps.
-Steps:
-Preprocess the X-ray dataset.
-Train a convolutional neural network (CNN) with the ALEGL framework.
-Generate GradCAM visualizations to highlight regions crucial for model predictions.
-Diabetes Prediction (Diabetes_example.ipynb)
-Objective: Predict diabetes presence using patient data while improving feature interpretability with SHAP values.
-Steps:
-Preprocess the diabetes dataset.
-Train a neural network model with ALEGL constraints to maintain fairness and interpretability.
-Use SHAP values to determine and visualize feature importance.
+# Pneumonia X-ray Classification (Pneumonia_Augmented_Learning.ipynb)
+# Objective: Classify X-ray images for pneumonia presence and improve model interpretability through GradCAM heatmaps.
+# Steps:
+# Preprocess the X-ray dataset.
+# Train a convolutional neural network (CNN) with the ALEGL framework.
+# Generate GradCAM visualizations to highlight regions crucial for model predictions.
+# Diabetes Prediction (Diabetes_example.ipynb)
+# Objective: Predict diabetes presence using patient data while improving feature interpretability with SHAP values.
+# Steps:
+# Preprocess the diabetes dataset.
+# Train a neural network model with ALEGL constraints to maintain fairness and interpretability.
+# Use SHAP values to determine and visualize feature importance.
