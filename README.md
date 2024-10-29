@@ -17,10 +17,10 @@ This repository contains Jupyter notebooks implementing the Augmented Lagrangian
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ShahbazianR/ALEGL-Healthcare.git
-   cd ALEGL-Healthcare
-pip install numpy pandas scikit-learn tensorflow shap
+   
+   git clone https://github.com/ShahbazianR/AL-EGL.git
+   
+   pip install numpy pandas scikit-learn tensorflow shap
 
 
 
